@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.6)  9 FEB 2016 13:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.6)  11 FEB 2016 10:18
 entering extended mode
 **Project*Proposal.tex
-("F:\RRP\Project Proposal.tex"
+("C:\Users\Katie\Documents\GitHub\RRP-ProjectProposal\Project Proposal.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -30,7 +30,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("F:\RRP\Project Proposal.aux")
+("C:\Users\Katie\Documents\GitHub\RRP-ProjectProposal\Project Proposal.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -49,29 +49,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 9.
- ("F:\RRP\Project Proposal.toc")
-\tf@toc=\write3
- [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] ("F:\RRP\Project Proposal
-.aux") ) 
+("C:\Users\Katie\Documents\GitHub\RRP-ProjectProposal\Project Proposal.toc")
+\tf@toc=\write3
+
+
+LaTeX Warning: Citation `lim2011converting' on page 1 undefined on input line 2
+0.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+("C:\Users\Katie\Documents\GitHub\RRP-ProjectProposal\Project Proposal.aux")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 238 strings out of 494045
- 2625 string characters out of 3148387
- 50890 words of memory out of 3000000
- 3600 multiletter control sequences out of 15000+200000
+ 239 strings out of 494045
+ 3049 string characters out of 3148387
+ 51890 words of memory out of 3000000
+ 3601 multiletter control sequences out of 15000+200000
  8195 words of font info for 29 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 23i,6n,17p,148b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Project Proposal.pdf" (1 page, 67423 bytes).
+ 23i,6n,17p,1043b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr17.pfb>
+Output written on "Project Proposal.pdf" (2 pages, 79567 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
