@@ -16,6 +16,21 @@
 \section{Motivation}
 \section{Literature Review}
 
+What is emotional expression?
+-> what is its purpose for humans/ what impact can it have on human social interaction
+- general conclusion that bodily expression of emotion can either be done by performing a specific movement behaviour or by characterising any movement such that the emotion is recognisable from that; analogous to voice where emotion can be expressed via specific words or by how a neutral sentence is spoken. Not clear which is better but reflected in different model types eg continuous based on parameters e.g 'energetic movement' (Lim, Xu) vs discrete state e.g. the Korean work 
+-> how should we do it on a robot, so look at work already done, different models etc
+- Voice
+- Facial expression: Facial Action Coding System
+- Movement: Laban movement analysis and derived effort-shape analysis, Body Action and Posture Coding System. Want my system to gesture independent so as does not disrupt functional movement, and to avoid cross cultural issues (highlighted reference in Handbook Pg 11)
+-> Expression emotion through specific gestures also has the issue of being culture dependent rather than universally applicable; for example a 'hand purse' gesture which represents fear in France and Belgium, a query in Italy and is not used at all in North America (D. McNeill 1992 ref in Handbook). [could just leave sentence at ...rather than universally applicable].  
+- Demonstrated on robots: Lim, Xu
+
+What is emotion contagion?
+- fearful bodily expression motion produces higher activity in the emotion-related areas of the brain, happy expressions only in vision-related ones. Fearful expression also generated activity in action representation and motor areas [de Gelder 2004]
+
+What is the hypothesis for this study - i.e. are we expecting emotional expression to make a difference on task performance and if so what difference etc? Reference literature discussed above plus others. 
+
 [Psychology Background/Results]
 
 There are multiple theories concerning the social function of human emotion at the individual, dyadic, group and cultural level, based on the observed consequences they have for those groups \cite{keltner1999social}. For example... (fear contagion, information about environment etc references from keltner + others). This demonstrates the importance of emotional expression in human-human interaction and hence justifies its study in HRI. 
@@ -24,11 +39,17 @@ There are multiple theories concerning the social function of human emotion at t
 
 It has been demonstrated that movement alone can express emotion even when static information is minimised, e.g. \cite{dittrich1996perception}, \cite{pollick2001perceiving}, Atkinson 2004 (affect folder of papers) [...] hence the way in which communication gestures are executed by the robot is likely to be important in emotion expression. lending credibility to this is the result found by XXX that the presence and pose of a robot body significantly increases emotion percievability compared to facial expression alone. ...maybe something about how this allows for emotional expression even in robots which do not have facial features etc.  
 
+Something on Laban movement analysis
+
 [Robot Applications/Work]
 
 Lim et al. demonstrated a framework for dynamically mapping the emotion in a speech sample to robot gesturing \cite{lim2011converting}. Four parameters are identified that can be measured in the speech sample and applied to the robot's gesture; these are speed, intensity, regularity and extent (SIRE). For example, speed is measured by the speech rate of the voice sample and applied to the velocity of the gesture. The use of SIRE means that the emotional communication is pose-independent [contrasting with other research looking at specific gestures like arms up for surprise?]. Additionally, this is relatively simple(?) [compared to emotion generation models] because the robot requires no internal emotional state model. The framework was used to parameterise an example gesture on the NAO [more details on robot?] using actor speech samples and experiments were set up in order to test whether the resulting gesture successfully conveyed the emotional content of the original speech. The results suggest that changing the dynamics of a gesture, according to SIRE, can produce recognisable emotions at an inter-rater agreement of above 60\%. However, it was shown that in playing the original speech sample through the robot alongside the gesture had different impacts on different emotion, for example happiness was much easier to understand but anger was much harder. The authors hypothesised that this could be due to the neutral stance of the NAO, suggesting that whilst their method is designed to be independent of pose, the choice of gesture and pose is likely to be of importance in successfully conveying the desired emotion.
 
-Lim et al. demonstrated a framework for mapping the emotion in a speech sample to robot gesturing based on four parameters;  speed, intensity, regularity and extent (SIRE) \cite{lim2011converting}. This is based on the concept that the motion of gesturing rather than the shape of gestures themselves can convey emotion and is more realistic for natural communication. A major benefit of this approach is that the robot requires no internal state model and can instead produce a more continuous emotional XXX, which again might be more natural according to some human emotion studies.  
+Lim et al. demonstrated a framework for mapping the emotion in a speech sample to robot gesturing based on four parameters;  speed, intensity, regularity and extent (SIRE) \cite{lim2011converting}. This is based on the concept that the way a gesture is executed rather than the actual shape of the gesture can convey emotion and is more realistic for natural communication. A major benefit of this approach is that the robot requires no internal state model and can hence produce a continuous emotional spectrum which can be expressed through whatever gestures the robot would already be performing (e.g. pointing) which the authors again suggest might be more natural according to some human emotion studies [could reference some of the psychology papers here e.g. light display].
+
+In contrast, Xu et al. suggest that bodily emotion expression is in fact explicit and hence interrupts functional behaviour; however mood can be expressed through modification of robot behaviours \cite{xu2013mood}. Their proposed model is however similar to Lim's in that is uses parameters concerning things like speed and XXX in order to demonstrate affect. In \cite{xu2013mood} the authors host an experiment in which participants must set these parameters in order to demonstrate a desired mood when the robot is pointing or waving; therefore evaluating...  
+
+Application to empathetic robots? De Carolis et al? 
 
 
 \section{Risk Register}
