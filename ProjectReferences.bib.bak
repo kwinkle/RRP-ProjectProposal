@@ -14,6 +14,20 @@
   Timestamp                = {2015.11.10}
 }
 
+@Article{bayliss2007affective,
+  Title                    = {Affective evaluations of objects are influenced by observed gaze direction and emotional expression},
+  Author                   = {Bayliss, Andrew P and Frischen, Alexandra and Fenske, Mark J and Tipper, Steven P},
+  Journal                  = {Cognition},
+  Year                     = {2007},
+  Number                   = {3},
+  Pages                    = {644--653},
+  Volume                   = {104},
+
+  Owner                    = {Katie},
+  Publisher                = {Elsevier},
+  Timestamp                = {2016.03.01}
+}
+
 @InProceedings{Bremner2015,
   Title                    = {Efficiency of Speech and Iconic Gesture Integration For Robotic and Human Communicators - a Direct Comparison},
   Author                   = {Paul Bremner and Ute Leonards},
@@ -361,6 +375,20 @@ Applied to one gesture only on NAO - moving from base position to arms extended 
   Timestamp                = {2015.11.12}
 }
 
+@Article{neumann2000mood,
+  Title                    = {" Mood contagion": the automatic transfer of mood between persons.},
+  Author                   = {Neumann, Roland and Strack, Fritz},
+  Journal                  = {Journal of personality and social psychology},
+  Year                     = {2000},
+  Number                   = {2},
+  Pages                    = {211},
+  Volume                   = {79},
+
+  Owner                    = {Katie},
+  Publisher                = {American Psychological Association},
+  Timestamp                = {2016.03.01}
+}
+
 @InProceedings{park2009robot,
   Title                    = {Robot's individual emotion generation model and action coloring according to the robot's personality},
   Author                   = {Park, Jong-Chan and Kim, Hyoung-Rock and Kim, Young-Min and Kwon, Dong-Soo},
@@ -398,6 +426,21 @@ Model paramaterised such that behaviours can be edited (start/end time) but also
 Implemented on an english-teaching robot and used in a school
 No eveidence for any improvement on communincation/task benefit etc},
   Timestamp                = {2016.01.31}
+}
+
+@Article{parkinson2011interpersonal,
+  Title                    = {Interpersonal emotion transfer: Contagion and social appraisal},
+  Author                   = {Parkinson, Brian},
+  Journal                  = {Social and Personality Psychology Compass},
+  Year                     = {2011},
+  Number                   = {7},
+  Pages                    = {428--439},
+  Volume                   = {5},
+
+  Owner                    = {Katie},
+  Publisher                = {Wiley Online Library},
+  Review                   = {Review of overall interpersonal emotion transfer specifically considering social appraisal (emotional response of another affects our judgment of something) versus emotion contagion (emotional expression causes us to actually feel the percieved emotion). Gives lots of examples of studies which demonstrate these effects, some of which highlight potentially worthwhile uses in robotics for example impacting someone's judgement of an item, reaction to a dangerous environment (fire) etc.},
+  Timestamp                = {2016.03.01}
 }
 
 @Article{pollick2001perceiving,
@@ -610,6 +653,18 @@ Found acceleration can predict percieved arousal and valence is 'at least partia
   Timestamp                = {2015.12.31}
 }
 
+@InProceedings{wehrle1998motivations,
+  Title                    = {Motivations behind modeling emotional agents: Whose emotion does your robot have},
+  Author                   = {Wehrle, Thomas},
+  Booktitle                = {Grounding emotions in adaptive systems. Zurich: 5th International conference of the society for adaptive behavior workshop notes (SAB'98)},
+  Year                     = {1998},
+  Volume                   = {60},
+
+  Owner                    = {Katie},
+  Review                   = {Provides a number of reasons for wanting to put emotion in agents based somewhat on the different goal of psychologists, engineers etc and different theories of the role of emotion in humans},
+  Timestamp                = {2016.02.23}
+}
+
 @InProceedings{whitsell2015role,
   Title                    = {On the role duality and switching in human-robot cooperation: An adaptive approach},
   Author                   = {Whitsell, Bryan and Artemiadis, Panagiotis},
@@ -622,6 +677,19 @@ Found acceleration can predict percieved arousal and valence is 'at least partia
   Timestamp                = {2015.11.02}
 }
 
+@InProceedings{xu2014robot,
+  Title                    = {Robot mood is contagious: effects of robot body language in the imitation game},
+  Author                   = {Xu, Junchao and Broekens, Joost and Hindriks, Koen and Neerincx, Mark A},
+  Booktitle                = {Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems},
+  Year                     = {2014},
+  Organization             = {International Foundation for Autonomous Agents and Multiagent Systems},
+  Pages                    = {973--980},
+
+  Owner                    = {Katie},
+  Review                   = {Attempt to demonstrate whether emotion contagion occurs during an interactive task: an imitation game. Hypothesise based on psychology that accuracy(?) of mood perception should not be linked to task difficulty, self-reported participiant mood will be higher after dealing with positive mood robot and participants will behave better when interacting with the negative mood robot (if emotion contagion has happened) becuase negative moods are best for accuracy in bottom-up detailed attention tasks. Found that participants consistently percieved different mood of robot based on previously pblished parameterised model and that they performed better in harder task when robot was in negative mood, in line with mood-congnitive load results.},
+  Timestamp                = {2016.02.18}
+}
+
 @InProceedings{xu2013mood,
   Title                    = {Mood expression through parameterized functional behavior of robots},
   Author                   = {Xu, Junchao and Broekens, Joost and Hindriks, Koen and Neerincx, Mark A},
@@ -631,7 +699,7 @@ Found acceleration can predict percieved arousal and valence is 'at least partia
   Pages                    = {533--540},
 
   Owner                    = {Katie},
-  Review                   = {In contrast to Lim authors state that emotional expression is explicit and interrupts functional behaviour whereas bodily mood expression in integrated to functional behaviours without interrupting them. However similar approach in that model modifies pre-determined behaviours via adjustable parameters (e.g. speed, ) in order to create affect on two pre-determined behaviours of waving and pointing.},
+  Review                   = {In contrast to Lim authors state that emotional expression is explicit and interrupts functional behaviour whereas bodily mood expression can be integrated to functional behaviours without interrupting them. However, similar approach in that model modifies pre-determined behaviours via adjustable parameters (e.g. speed, but also more specific parameters like palm forward/down) in order to create affect on two pre-determined behaviours of waving and pointing.},
   Timestamp                = {2016.02.18}
 }
 
