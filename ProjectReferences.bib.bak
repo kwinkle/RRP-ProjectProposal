@@ -601,6 +601,20 @@ Found acceleration can predict percieved arousal and valence is 'at least partia
   Timestamp                = {2015.12.31}
 }
 
+@Article{tracy2015nonverbal,
+  Title                    = {The nonverbal communication of emotions},
+  Author                   = {Tracy, Jessica L and Randles, Daniel and Steckler, Conor M},
+  Journal                  = {Current opinion in behavioral sciences},
+  Year                     = {2015},
+  Pages                    = {25--30},
+  Volume                   = {3},
+
+  Owner                    = {Katie},
+  Publisher                = {Elsevier},
+  Review                   = {References the two-stage model described in Shariff and Tracy, highlights emotional communication as shaping behaviour, e.g. whether to avoid or approach, influencing judgements and decision making. Specific examples: agents with pride become leaders and wisdom sources, positive discussion deciding vote outcome, happiness displayers high in dominance and affiliation, anger leading someone to take and drink less from a drink jug.},
+  Timestamp                = {2016.02.25}
+}
+
 @Article{uluer2015new,
   Title                    = {A New Robotic Platform for Sign Language Tutoring},
   Author                   = {Uluer, P{\i}nar and Akal{\i}n, Neziha and K{\"o}se, Hatice},
