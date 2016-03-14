@@ -14,6 +14,21 @@
   Timestamp                = {2015.11.10}
 }
 
+@Article{atkinson2004emotion,
+  Title                    = {Emotion perception from dynamic and static body expressions in point-light and full-light displays},
+  Author                   = {Atkinson, Anthony P and Dittrich, Winand H and Gemmell, Andrew J and Young, Andrew W},
+  Journal                  = {Perception},
+  Year                     = {2004},
+  Number                   = {6},
+  Pages                    = {717--746},
+  Volume                   = {33},
+
+  Owner                    = {Katie},
+  Publisher                = {SAGE Publications},
+  Review                   = {Continuation of Dittrich 1996 work on emotion recognition from point light versus full light displays - uses actors rather than dancers},
+  Timestamp                = {2016.03.14}
+}
+
 @Article{bayliss2007affective,
   Title                    = {Affective evaluations of objects are influenced by observed gaze direction and emotional expression},
   Author                   = {Bayliss, Andrew P and Frischen, Alexandra and Fenske, Mark J and Tipper, Steven P},
@@ -164,22 +179,6 @@ Overall findings: with the roomba elders moved from planned to opportunistic cle
   Timestamp                = {2016.02.02}
 }
 
-@Article{giannaccini2014variable,
-  Title                    = {A variable compliance, soft gripper},
-  Author                   = {Giannaccini, Maria Elena and Georgilas, Ian and Horsfield, Ian and Peiris, BHPM and Lenz, Alexander and Pipe, Anthony G and Dogramadzi, Sanja},
-  Journal                  = {Autonomous Robots},
-  Year                     = {2014},
-
-  Month                    = {January},
-  Number                   = {1-2},
-  Pages                    = {93--107},
-  Volume                   = {36},
-
-  Owner                    = {Katie},
-  Publisher                = {Springer},
-  Timestamp                = {2015.10.12}
-}
-
 @InProceedings{gockley2006encouraging,
   Title                    = {Encouraging physical therapy compliance with a hands-off mobile robot},
   Author                   = {Gockley, Rachel and Mataric, Maja J},
@@ -213,18 +212,6 @@ Overall findings: with the roomba elders moved from planned to opportunistic cle
 
   Owner                    = {Katie},
   Timestamp                = {2015.11.08}
-}
-
-@InProceedings{hemachandra2015learning,
-  Title                    = {Learning Models for Following Natural Language Directions in Unknown Environments},
-  Author                   = {Hemachandra, Sachithra and Duvallet, Felix and Howard, Thomas M and Roy, Nicholas and Stentz, Anthony and Walter, Matthew R},
-  Booktitle                = {Robotics and Automation (ICRA), 2015 IEEE International Conference on},
-  Year                     = {2015},
-  Organization             = {IEEE},
-  Pages                    = {5608--5615},
-
-  Owner                    = {Katie},
-  Timestamp                = {2015.11.01}
 }
 
 @Article{jenkins2015care,
@@ -307,6 +294,17 @@ Model somewhat based on KISMET - should look at reference C. Breazeal : Designin
   Timestamp                = {2016.02.01}
 }
 
+@Book{Lab2011,
+  Title                    = {The Mastery of Movement},
+  Author                   = {Rudolf Laban},
+  Editor                   = {Lisa Ullman},
+  Publisher                = {Dance Books Ltd},
+  Year                     = {2011},
+
+  Owner                    = {Katie},
+  Timestamp                = {2016.03.14}
+}
+
 @InProceedings{lim2011converting,
   Title                    = {Converting emotional voice to motion for robot telepresence},
   Author                   = {Lim, Angelica and Ogata, Tetsuya and Okuno, Hiroshi G},
@@ -336,6 +334,31 @@ Applied to one gesture only on NAO - moving from base position to arms extended 
 
   Owner                    = {Katie},
   Timestamp                = {2015.11.10}
+}
+
+@InProceedings{masuda2010motion,
+  Title                    = {Motion rendering system for emotion expression of human form robots based on laban movement analysis},
+  Author                   = {Masuda, Megumi and Kato, Shohei},
+  Booktitle                = {RO-MAN, 2010 IEEE},
+  Year                     = {2010},
+  Organization             = {IEEE},
+  Pages                    = {324--329},
+
+  Owner                    = {Katie},
+  Review                   = {Uses LMA to produce emotionally expressive movements, parameters set by equations generated from analysis of human motion},
+  Timestamp                = {2016.03.14}
+}
+
+@InCollection{masuda2009emotion,
+  Title                    = {Emotion detection from body motion of human form robot based on laban movement analysis},
+  Author                   = {Masuda, Megumi and Kato, Shohei and Itoh, Hidenori},
+  Booktitle                = {Principles of Practice in Multi-Agent Systems},
+  Publisher                = {Springer},
+  Year                     = {2009},
+  Pages                    = {322--334},
+
+  Owner                    = {Katie},
+  Timestamp                = {2016.03.14}
 }
 
 @InProceedings{mccoll2014determining,
@@ -376,7 +399,7 @@ Applied to one gesture only on NAO - moving from base position to arms extended 
 }
 
 @Article{neumann2000mood,
-  Title                    = {" Mood contagion": the automatic transfer of mood between persons.},
+  Title                    = {Mood contagion: the automatic transfer of mood between persons.},
   Author                   = {Neumann, Roland and Strack, Fritz},
   Journal                  = {Journal of personality and social psychology},
   Year                     = {2000},
@@ -398,7 +421,7 @@ Applied to one gesture only on NAO - moving from base position to arms extended 
   Pages                    = {257--262},
 
   Owner                    = {Katie},
-  Review                   = {Model for generating emotions including the effects of robots loyalty and personality and then 'action colouring' based on those emotions (actions do not subtract from assistive fundtion but designed to make robot and interactions more 'natural')
+  Review                   = {Model for generating emotions including the effects of robots loyalty and personality and then 'action colouring' based on those emotions (actions do not subtract from assistive function but designed to make robot and interactions more 'natural')
 - two emotions generation layers: reactive (immediate response eg fear and suprise) and cognitive
 - reactive layer considers whether event was focus of attention, unexpectedness and valence
 - deliberative layer considers event, agent (subject of event), object (target of event), agent and object desirability, prospect relevance, praisewothiness and appealingness (includes tables of paramaterised values for feeding into model)
@@ -474,20 +497,6 @@ Activation seemingly linked to movement kinematics, pleasantness to relative mov
   Timestamp                = {2016.01.09}
 }
 
-@Article{robinson2014role,
-  Title                    = {The Role of Healthcare Robots for Older People at Home: A Review},
-  Author                   = {Robinson, Hayley and MacDonald, Bruce and Broadbent, Elizabeth},
-  Journal                  = {International Journal of Social Robotics},
-  Year                     = {2014},
-  Number                   = {4},
-  Pages                    = {575--591},
-  Volume                   = {6},
-
-  Owner                    = {Katie},
-  Publisher                = {Springer},
-  Timestamp                = {2015.10.19}
-}
-
 @InProceedings{saerbeck2010perception,
   Title                    = {Perception of affect elicited by robot motion},
   Author                   = {Saerbeck, Martin and Bartneck, Christoph},
@@ -514,16 +523,19 @@ Found acceleration can predict percieved arousal and valence is 'at least partia
   Timestamp                = {2015.11.01}
 }
 
-@Article{sarter1997automation,
-  Title                    = {Automation surprises},
-  Author                   = {Sarter, Nadine B and Woods, David D and Billings, Charles E},
-  Journal                  = {Handbook of human factors and ergonomics},
-  Year                     = {1997},
-  Pages                    = {1926--1943},
-  Volume                   = {2},
+@Article{shariff2011emotion,
+  Title                    = {What are emotion expressions for?},
+  Author                   = {Shariff, Azim F and Tracy, Jessica L},
+  Journal                  = {Current Directions in Psychological Science},
+  Year                     = {2011},
+  Number                   = {6},
+  Pages                    = {395--399},
+  Volume                   = {20},
 
   Owner                    = {Katie},
-  Timestamp                = {2015.10.12}
+  Publisher                = {Sage Publications},
+  Review                   = {Proposes that emotional expression (mostly looking at facial expressions but not specifically so) was first a function of the physiological response to something but later evolved to be exaggerated as a form of social communication, which observers evolved an ability to instantly decode. Example: disgust scrunching of nose and mouth would reduce airflow and hence intake of noxious gas, however now used to respond to unagreeable behaviour or information. For me - observer ability to decode important for robot emotion work because examples suggest that response is involuntary; for example assigning higher social status to an agent who displays pride. Second example of fear contagion - monkeys never before scared of snakes became scared of snakes when they saw other monkeys who were so. Could this work for positive emotions? i.e. someone who doesn't like a task actually begins to like it after seeing a robot like it (obvious applications in therapy, education etc. and seemingly obvious if you think about parents conving their children to eat their greens by saying how tasty they are etc.)},
+  Timestamp                = {2016.02.25}
 }
 
 @Article{shiomi2015can,
@@ -702,6 +714,16 @@ Found acceleration can predict percieved arousal and valence is 'at least partia
   Owner                    = {Katie},
   Review                   = {Attempt to demonstrate whether emotion contagion occurs during an interactive task: an imitation game. Hypothesise based on psychology that accuracy(?) of mood perception should not be linked to task difficulty, self-reported participiant mood will be higher after dealing with positive mood robot and participants will behave better when interacting with the negative mood robot (if emotion contagion has happened) becuase negative moods are best for accuracy in bottom-up detailed attention tasks. Found that participants consistently percieved different mood of robot based on previously pblished parameterised model and that they performed better in harder task when robot was in negative mood, in line with mood-congnitive load results.},
   Timestamp                = {2016.02.18}
+}
+
+@Book{xu2013bodily,
+  Title                    = {Bodily mood expression: Recognize moods from functional behaviors of humanoid robots},
+  Author                   = {Xu, Junchao and Broekens, Joost and Hindriks, Koen and Neerincx, Mark A},
+  Publisher                = {Springer},
+  Year                     = {2013},
+
+  Owner                    = {Katie},
+  Timestamp                = {2016.03.14}
 }
 
 @InProceedings{xu2013mood,

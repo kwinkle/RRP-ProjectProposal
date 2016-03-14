@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{parkinson2011interpersonal}
 Brian Parkinson.
@@ -7,7 +7,7 @@ Brian Parkinson.
 
 \bibitem{neumann2000mood}
 Roland Neumann and Fritz Strack.
-\newblock " mood contagion": the automatic transfer of mood between persons.
+\newblock Mood contagion: the automatic transfer of mood between persons.
 \newblock {\em Journal of personality and social psychology}, 79(2):211, 2000.
 
 \bibitem{bayliss2007affective}
@@ -21,6 +21,87 @@ Jessica~L Tracy, Daniel Randles, and Conor~M Steckler.
 \newblock The nonverbal communication of emotions.
 \newblock {\em Current opinion in behavioral sciences}, 3:25--30, 2015.
 
+\bibitem{shiomi2015can}
+Masahiro Shiomi, Takayuki Kanda, Iris Howley, Kotaro Hayashi, and Norihiro
+  Hagita.
+\newblock Can a social robot stimulate science curiosity in classrooms?
+\newblock {\em International Journal of Social Robotics}, 7:1--12, 2015.
+
+\bibitem{gockley2006encouraging}
+Rachel Gockley and Maja~J Mataric.
+\newblock Encouraging physical therapy compliance with a hands-off mobile
+  robot.
+\newblock In {\em Proceedings of the 1st ACM SIGCHI/SIGART conference on
+  Human-robot interaction}, pages 150--155. ACM, 2006.
+
+\bibitem{keltner1999social}
+Dacher Keltner and Jonathan Haidt.
+\newblock Social functions of emotions at four levels of analysis.
+\newblock {\em Cognition \& Emotion}, 13(5):505--521, 1999.
+
+\bibitem{shariff2011emotion}
+Azim~F Shariff and Jessica~L Tracy.
+\newblock What are emotion expressions for?
+\newblock {\em Current Directions in Psychological Science}, 20(6):395--399,
+  2011.
+
+\bibitem{fasola2010robot}
+Juan Fasola and Maja~J Matari{\'c}.
+\newblock Robot exercise instructor: a socially assistive robot system to
+  monitor and encourage physical exercise for the elderly.
+\newblock In {\em RO-MAN, 2010 IEEE}, pages 416--421. IEEE, 2010.
+
+\bibitem{latane1968group}
+Bibb Latane and John~M Darley.
+\newblock Group inhibition of bystander intervention in emergencies.
+\newblock {\em Journal of personality and social psychology}, 10(3):215, 1968.
+
+\bibitem{montemerlo2002experiences}
+Michael Montemerlo, Joelle Pineau, Nicholas Roy, Sebastian Thrun, and Vandi
+  Verma.
+\newblock Experiences with a mobile robotic guide for the elderly.
+\newblock In {\em AAAI/IAAI}, pages 587--592, 2002.
+
+\bibitem{tielman2014adaptive}
+Myrthe Tielman, Mark Neerincx, John-Jules Meyer, and Rosemarijn Looije.
+\newblock Adaptive emotional expression in robot-child interaction.
+\newblock In {\em Proceedings of the 2014 ACM/IEEE international conference on
+  Human-robot interaction}, pages 407--414. ACM, 2014.
+
+\bibitem{louie2012playing}
+Wing-Yue~Geoffrey Louie, Derek McColl, and Goldie Nejat.
+\newblock Playing a memory game with a socially assistive robot: A case study
+  at a long-term care facility.
+\newblock In {\em RO-MAN, 2012 IEEE}, pages 345--350. IEEE, 2012.
+
+\bibitem{dittrich1996perception}
+Winand~H Dittrich, Tom Troscianko, Stephen~EG Lea, and Dawn Morgan.
+\newblock Perception of emotion from dynamic point-light displays represented
+  in dance.
+\newblock {\em Perception}, 25(6):727--738, 1996.
+
+\bibitem{pollick2001perceiving}
+Frank~E Pollick, Helena~M Paterson, Armin Bruderlin, and Anthony~J Sanford.
+\newblock Perceiving affect from arm movement.
+\newblock {\em Cognition}, 82(2):B51--B61, 2001.
+
+\bibitem{atkinson2004emotion}
+Anthony~P Atkinson, Winand~H Dittrich, Andrew~J Gemmell, and Andrew~W Young.
+\newblock Emotion perception from dynamic and static body expressions in
+  point-light and full-light displays.
+\newblock {\em Perception}, 33(6):717--746, 2004.
+
+\bibitem{lab2011}
+Rudolf Laban.
+\newblock {\em The Mastery of Movement}.
+\newblock Dance Books Ltd, 2011.
+
+\bibitem{masuda2010motion}
+Megumi Masuda and Shohei Kato.
+\newblock Motion rendering system for emotion expression of human form robots
+  based on laban movement analysis.
+\newblock In {\em RO-MAN, 2010 IEEE}, pages 324--329. IEEE, 2010.
+
 \bibitem{lim2011converting}
 Angelica Lim, Tetsuya Ogata, and Hiroshi~G Okuno.
 \newblock Converting emotional voice to motion for robot telepresence.
@@ -31,5 +112,18 @@ Angelica Lim, Tetsuya Ogata, and Hiroshi~G Okuno.
 Junchao Xu, Joost Broekens, Koen Hindriks, and Mark~A Neerincx.
 \newblock Mood expression through parameterized functional behavior of robots.
 \newblock In {\em RO-MAN, 2013 IEEE}, pages 533--540. IEEE, 2013.
+
+\bibitem{masuda2009emotion}
+Megumi Masuda, Shohei Kato, and Hidenori Itoh.
+\newblock Emotion detection from body motion of human form robot based on laban
+  movement analysis.
+\newblock In {\em Principles of Practice in Multi-Agent Systems}, pages
+  322--334. Springer, 2009.
+
+\bibitem{xu2013bodily}
+Junchao Xu, Joost Broekens, Koen Hindriks, and Mark~A Neerincx.
+\newblock {\em Bodily mood expression: Recognize moods from functional
+  behaviors of humanoid robots}.
+\newblock Springer, 2013.
 
 \end{thebibliography}

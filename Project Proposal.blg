@@ -1,8 +1,6 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Project Proposal.aux
 The style file: unsrt.bst
 Database file #1: ProjectReferences.bib
-Repeated entry---line 445 of file ProjectReferences.bib
- : @article{parkinson2011interpersonal
- :                                    ,
-I'm skipping whatever remains of this entry
-(There was 1 error message)
+Warning--I didn't find a database entry for "fasola"
+Warning--can't use both author and editor fields in lab2011
+(There were 2 warnings)
