@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.6)  14 MAR 2016 22:18
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.6)  15 MAR 2016 21:22
 entering extended mode
 **Project*Proposal.tex
 ("C:\Users\Katie\Documents\GitHub\RRP-ProjectProposal\Project Proposal.tex"
@@ -209,57 +209,69 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 136.
+(Font)              <10.95> on input line 114.
 
-Overfull \hbox (5.3098pt too wide) in paragraph at lines 138--138
+Overfull \hbox (5.3098pt too wide) in paragraph at lines 116--116
 []|\OT1/cmr/m/n/10.95 Impact| 
  []
 
 
-Overfull \hbox (1.39343pt too wide) in paragraph at lines 138--139
+Overfull \hbox (1.39343pt too wide) in paragraph at lines 116--117
 []|\OT1/cmr/bx/n/10.95 Score| 
  []
 
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 []|\OT1/cmr/m/n/10.95 Emotion gen-er-a-tion model not
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]|\OT1/cmr/m/n/10.95 Identified emo-tional be-haviours
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
 []|\OT1/cmr/m/n/10.95 Some time in plan for
  []
 
 
-Underfull \hbox (badness 2951) in paragraph at lines 144--144
+Underfull \hbox (badness 2951) in paragraph at lines 122--122
 \OT1/cmr/m/n/10.95 reschedul-ing, or could im-
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 146--146
+Underfull \hbox (badness 2012) in paragraph at lines 124--124
 []|\OT1/cmr/m/n/10.95 Start re-cruit-ing in sen-si-ble
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 146--146
+Underfull \hbox (badness 1028) in paragraph at lines 124--124
 \OT1/cmr/m/n/10.95 ad-vance of ex-per-i-ment, use
  []
 
 
-Overfull \hbox (11.46956pt too wide) in paragraph at lines 136--149
+Underfull \hbox (badness 6078) in paragraph at lines 124--124
+\OT1/cmr/m/n/10.95 sub-ject ex-per-i-ment de-sign,
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 124--124
+\OT1/cmr/m/n/10.95 con-sider vir-tual al-ter-na-tives
+ []
+
+
+Overfull \hbox (11.46956pt too wide) in paragraph at lines 114--127
  [] 
  []
 
-[5] <ProjectTimeline2.png, id=23, 314.6154pt x 832.5504pt>
+<ProjectTimeline2.png, id=20, 314.6154pt x 832.5504pt>
 File: ProjectTimeline2.png Graphic file (type png)
 
 <use ProjectTimeline2.png>
-Package pdftex.def Info: ProjectTimeline2.png used on input line 157.
+Package pdftex.def Info: ProjectTimeline2.png used on input line 135.
 (pdftex.def)             Requested size: 221.99591pt x 587.43161pt.
-
+ [5]
 ("C:\Users\Katie\Documents\GitHub\RRP-ProjectProposal\Project Proposal.bbl"
 [6] [7 <C:/Users/Katie/Documents/GitHub/RRP-ProjectProposal/ProjectTimeline2.pn
 g>]) [8]
@@ -267,11 +279,11 @@ g>]) [8]
 Here is how much of TeX's memory you used:
  2451 strings out of 494045
  34341 string characters out of 3148387
- 102308 words of memory out of 3000000
+ 102297 words of memory out of 3000000
  5750 multiletter control sequences out of 15000+200000
  9465 words of font info for 33 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,9n,32p,2096b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,9n,32p,2107b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
 <
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files
@@ -280,7 +292,7 @@ am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files
 type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmti10.pfb>
-Output written on "Project Proposal.pdf" (8 pages, 167086 bytes).
+Output written on "Project Proposal.pdf" (8 pages, 169165 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
