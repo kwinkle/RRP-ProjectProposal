@@ -34,6 +34,11 @@ Rachel Gockley and Maja~J Mataric.
 \newblock In {\em Proceedings of the 1st ACM SIGCHI/SIGART conference on
   Human-robot interaction}, pages 150--155. ACM, 2006.
 
+\bibitem{mori2012uncanny}
+Masahiro Mori, Karl~F MacDorman, and Norri Kageki.
+\newblock The uncanny valley [from the field].
+\newblock {\em Robotics \& Automation Magazine, IEEE}, 19(2):98--100, 2012.
+
 \bibitem{keltner1999social}
 Dacher Keltner and Jonathan Haidt.
 \newblock Social functions of emotions at four levels of analysis.
@@ -118,6 +123,36 @@ Rudolf Laban.
 \newblock {\em The Mastery of Movement}.
 \newblock Dance Books Ltd, 2011.
 
+\bibitem{newlove1993laban}
+Jean Newlove.
+\newblock {\em Laban for actors and dancers: putting Laban's movement theory
+  into practice: a step-by-step guide}.
+\newblock Theatre Arts Books, 1993.
+
+\bibitem{scherer2000cross}
+Klaus~R Scherer.
+\newblock A cross-cultural investigation of emotion inferences from voice and
+  speech: implications for speech technology.
+\newblock In {\em INTERSPEECH}, pages 379--382, 2000.
+
+\bibitem{scherer1986vocal}
+Klaus~R Scherer.
+\newblock Vocal affect expression: a review and a model for future research.
+\newblock {\em Psychological bulletin}, 99(2):143, 1986.
+
+\bibitem{cowie2001emotion}
+Roddy Cowie, Ellen Douglas-Cowie, Nicolas Tsapatsoulis, George Votsis, Stefanos
+  Kollias, Winfried Fellenz, and John~G Taylor.
+\newblock Emotion recognition in human-computer interaction.
+\newblock {\em Signal Processing Magazine, IEEE}, 18(1):32--80, 2001.
+
+\bibitem{masuda2009emotion}
+Megumi Masuda, Shohei Kato, and Hidenori Itoh.
+\newblock Emotion detection from body motion of human form robot based on laban
+  movement analysis.
+\newblock In {\em Principles of Practice in Multi-Agent Systems}, pages
+  322--334. Springer, 2009.
+
 \bibitem{masuda2010motion}
 Megumi Masuda and Shohei Kato.
 \newblock Motion rendering system for emotion expression of human form robots
@@ -135,24 +170,19 @@ Junchao Xu, Joost Broekens, Koen Hindriks, and Mark~A Neerincx.
 \newblock Mood expression through parameterized functional behavior of robots.
 \newblock In {\em RO-MAN, 2013 IEEE}, pages 533--540. IEEE, 2013.
 
-\bibitem{masuda2009emotion}
-Megumi Masuda, Shohei Kato, and Hidenori Itoh.
-\newblock Emotion detection from body motion of human form robot based on laban
-  movement analysis.
-\newblock In {\em Principles of Practice in Multi-Agent Systems}, pages
-  322--334. Springer, 2009.
-
 \bibitem{xu2013bodily}
 Junchao Xu, Joost Broekens, Koen Hindriks, and Mark~A Neerincx.
 \newblock {\em Bodily mood expression: Recognize moods from functional
   behaviors of humanoid robots}.
 \newblock Springer, 2013.
 
-\bibitem{fasola2010robot}
-Juan Fasola and Maja~J Matari{\'c}.
-\newblock Robot exercise instructor: a socially assistive robot system to
-  monitor and encourage physical exercise for the elderly.
-\newblock In {\em RO-MAN, 2010 IEEE}, pages 416--421. IEEE, 2010.
+\bibitem{xu2014robot}
+Junchao Xu, Joost Broekens, Koen Hindriks, and Mark~A Neerincx.
+\newblock Robot mood is contagious: effects of robot body language in the
+  imitation game.
+\newblock In {\em Proceedings of the 2014 international conference on
+  Autonomous agents and multi-agent systems}, pages 973--980. International
+  Foundation for Autonomous Agents and Multiagent Systems, 2014.
 
 \bibitem{tielman2014adaptive}
 Myrthe Tielman, Mark Neerincx, John-Jules Meyer, and Rosemarijn Looije.
@@ -165,5 +195,19 @@ Wing-Yue~Geoffrey Louie, Derek McColl, and Goldie Nejat.
 \newblock Playing a memory game with a socially assistive robot: A case study
   at a long-term care facility.
 \newblock In {\em RO-MAN, 2012 IEEE}, pages 345--350. IEEE, 2012.
+
+\bibitem{chidambaram2012designing}
+Vijay Chidambaram, Yueh-Hsuan Chiang, and Bilge Mutlu.
+\newblock Designing persuasive robots: how robots might persuade people using
+  vocal and nonverbal cues.
+\newblock In {\em Proceedings of the seventh annual ACM/IEEE international
+  conference on Human-Robot Interaction}, pages 293--300. ACM, 2012.
+
+\bibitem{nakagawa2011effect}
+Kayako Nakagawa, Masahiro Shiomi, Kazuhiko Shinozawa, Reo Matsumura, Hiroshi
+  Ishiguro, and Norihiro Hagita.
+\newblock Effect of robot's active touch on people's motivation.
+\newblock In {\em Human-Robot Interaction (HRI), 2011 6th ACM/IEEE
+  International Conference on}, pages 465--472. IEEE, 2011.
 
 \end{thebibliography}
