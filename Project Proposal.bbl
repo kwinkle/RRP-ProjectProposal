@@ -45,34 +45,56 @@ Azim~F Shariff and Jessica~L Tracy.
 \newblock {\em Current Directions in Psychological Science}, 20(6):395--399,
   2011.
 
-\bibitem{fasola2010robot}
-Juan Fasola and Maja~J Matari{\'c}.
-\newblock Robot exercise instructor: a socially assistive robot system to
-  monitor and encourage physical exercise for the elderly.
-\newblock In {\em RO-MAN, 2010 IEEE}, pages 416--421. IEEE, 2010.
-
 \bibitem{latane1968group}
 Bibb Latane and John~M Darley.
 \newblock Group inhibition of bystander intervention in emergencies.
 \newblock {\em Journal of personality and social psychology}, 10(3):215, 1968.
 
-\bibitem{montemerlo2002experiences}
-Michael Montemerlo, Joelle Pineau, Nicholas Roy, Sebastian Thrun, and Vandi
-  Verma.
-\newblock Experiences with a mobile robotic guide for the elderly.
-\newblock In {\em AAAI/IAAI}, pages 587--592, 2002.
+\bibitem{strack1988inhibiting}
+Fritz Strack, Leonard~L Martin, and Sabine Stepper.
+\newblock Inhibiting and facilitating conditions of the human smile: a
+  nonobtrusive test of the facial feedback hypothesis.
+\newblock {\em Journal of personality and social psychology}, 54(5):768, 1988.
 
-\bibitem{tielman2014adaptive}
-Myrthe Tielman, Mark Neerincx, John-Jules Meyer, and Rosemarijn Looije.
-\newblock Adaptive emotional expression in robot-child interaction.
-\newblock In {\em Proceedings of the 2014 ACM/IEEE international conference on
-  Human-robot interaction}, pages 407--414. ACM, 2014.
+\bibitem{tamietto2009unseen}
+Marco Tamietto, Lorys Castelli, Sergio Vighetti, Paola Perozzo, Giuliano
+  Geminiani, Lawrence Weiskrantz, and Beatrice de~Gelder.
+\newblock Unseen facial and bodily expressions trigger fast emotional
+  reactions.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  106(42):17661--17666, 2009.
 
-\bibitem{louie2012playing}
-Wing-Yue~Geoffrey Louie, Derek McColl, and Goldie Nejat.
-\newblock Playing a memory game with a socially assistive robot: A case study
-  at a long-term care facility.
-\newblock In {\em RO-MAN, 2012 IEEE}, pages 345--350. IEEE, 2012.
+\bibitem{tiedens2003power}
+Larissa~Z Tiedens and Alison~R Fragale.
+\newblock Power moves: complementarity in dominant and submissive nonverbal
+  behavior.
+\newblock {\em Journal of personality and social psychology}, 84(3):558, 2003.
+
+\bibitem{barsade2002ripple}
+Sigal~G Barsade.
+\newblock The ripple effect: Emotional contagion and its influence on group
+  behavior.
+\newblock {\em Administrative Science Quarterly}, 47(4):644--675, 2002.
+
+\bibitem{kramer2014experimental}
+Adam~DI Kramer, Jamie~E Guillory, and Jeffrey~T Hancock.
+\newblock Experimental evidence of massive-scale emotional contagion through
+  social networks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  111(24):8788--8790, 2014.
+
+\bibitem{winkielman2005unconscious}
+Piotr Winkielman, Kent~C Berridge, and Julia~L Wilbarger.
+\newblock Unconscious affective reactions to masked happy versus angry faces
+  influence consumption behavior and judgments of value.
+\newblock {\em Personality and Social Psychology Bulletin}, 31(1):121--135,
+  2005.
+
+\bibitem{mussel2013value}
+Patrick Mussel, Anja~S G{\"o}ritz, and Johannes Hewig.
+\newblock The value of a smile: Facial expression affects ultimatum-game
+  responses.
+\newblock {\em Judgment and Decision Making}, 8(3):381, 2013.
 
 \bibitem{dittrich1996perception}
 Winand~H Dittrich, Tom Troscianko, Stephen~EG Lea, and Dawn Morgan.
@@ -125,5 +147,23 @@ Junchao Xu, Joost Broekens, Koen Hindriks, and Mark~A Neerincx.
 \newblock {\em Bodily mood expression: Recognize moods from functional
   behaviors of humanoid robots}.
 \newblock Springer, 2013.
+
+\bibitem{fasola2010robot}
+Juan Fasola and Maja~J Matari{\'c}.
+\newblock Robot exercise instructor: a socially assistive robot system to
+  monitor and encourage physical exercise for the elderly.
+\newblock In {\em RO-MAN, 2010 IEEE}, pages 416--421. IEEE, 2010.
+
+\bibitem{tielman2014adaptive}
+Myrthe Tielman, Mark Neerincx, John-Jules Meyer, and Rosemarijn Looije.
+\newblock Adaptive emotional expression in robot-child interaction.
+\newblock In {\em Proceedings of the 2014 ACM/IEEE international conference on
+  Human-robot interaction}, pages 407--414. ACM, 2014.
+
+\bibitem{louie2012playing}
+Wing-Yue~Geoffrey Louie, Derek McColl, and Goldie Nejat.
+\newblock Playing a memory game with a socially assistive robot: A case study
+  at a long-term care facility.
+\newblock In {\em RO-MAN, 2012 IEEE}, pages 345--350. IEEE, 2012.
 
 \end{thebibliography}
