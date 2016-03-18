@@ -439,6 +439,20 @@ Applied to one gesture only on NAO - moving from base position to arms extended 
   Timestamp                = {2016.02.01}
 }
 
+@Article{mori2012uncanny,
+  Title                    = {The uncanny valley [from the field]},
+  Author                   = {Mori, Masahiro and MacDorman, Karl F and Kageki, Norri},
+  Journal                  = {Robotics \& Automation Magazine, IEEE},
+  Year                     = {2012},
+  Number                   = {2},
+  Pages                    = {98--100},
+  Volume                   = {19},
+
+  Owner                    = {Katie},
+  Publisher                = {IEEE},
+  Timestamp                = {2016.03.17}
+}
+
 @Article{mussel2013value,
   Title                    = {The value of a smile: Facial expression affects ultimatum-game responses},
   Author                   = {Mussel, Patrick and G{\"o}ritz, Anja S and Hewig, Johannes},
